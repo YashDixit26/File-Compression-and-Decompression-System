@@ -48,7 +48,11 @@ It’s designed with a user-friendly interface using **Java Swing**, making file
 
 ---
 
-## ✅ 4. Technologies Used
+## 📸 4. Screenshot
+
+![Application Screenshot](screenshots/app_screenshot.png)
+
+## ✅ 5. Technologies Used
 
 | Technology                | Purpose                                      |
 |---------------------------|----------------------------------------------|
