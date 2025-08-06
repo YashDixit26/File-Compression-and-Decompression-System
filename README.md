@@ -51,6 +51,8 @@ It’s designed with a user-friendly interface using **Java Swing**, making file
 ## 📸 4. Screenshot
 
 ![Application Screenshot](GUI.png)
+<img src="GUI.png" alt="Application Screenshot" width="500"/>
+
 
 ## ✅ 5. Technologies Used
 
@@ -68,4 +70,4 @@ It’s designed with a user-friendly interface using **Java Swing**, making file
 ---
 
 ## 📌 Author
-Developed by **Yash Dixit*.
+Developed by *Yash Dixit*.
