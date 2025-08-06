@@ -51,7 +51,6 @@ It’s designed with a user-friendly interface using **Java Swing**, making file
 ## 📸 4. Screenshot
 
 ![Application Screenshot](GUI.png)
-<img src="GUI.png" alt="Application Screenshot" width="800"/>
 
 
 ## ✅ 5. Technologies Used
