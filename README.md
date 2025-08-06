@@ -64,4 +64,4 @@ It’s designed with a user-friendly interface using **Java Swing**, making file
 ---
 
 ## 📌 Author
-Developed as a demonstration of file compression techniques using Huffman coding in a Java Swing GUI.
+Developed by **Yash Dixit*.
